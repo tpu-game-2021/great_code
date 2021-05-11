@@ -9,7 +9,7 @@
 * 修正しおえたら、「tpu-game-2021/great_code」のmainブランチにプルリクを出してください
 
 # ビルド状態
-[![Actions Status](https://github.com/tpu-game-2021/great_code/actions/workflows/msbuild.yml/badge.svg)](https://github.com/tpu-game-2021/great_code/actions/workflows/msbuild.yml)
+[![Actions Status](https://github.com/ToaMiyamura/great_code/actions/workflows/msbuild.yml/badge.svg)](https://github.com/ToaMiyamura/great_code/actions/workflows/msbuild.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
