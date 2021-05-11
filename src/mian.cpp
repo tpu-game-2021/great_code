@@ -22,6 +22,7 @@ int main()
 	//	printf("%s, ", mojisuu % 15 ? mojisuu % 3 ? mojisuu % 5 ? mojiretsu : "Buzz" : "Fizz" : "FizzBuzz");
 	//}
 
+
 	//1～999まで
 	for (int i = 1; i < MAX_ARRAY; i++)
 	{
