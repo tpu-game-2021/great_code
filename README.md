@@ -11,7 +11,6 @@
 # ビルド状態
 [![Actions Status](https://github.com/nazonokouta0706/great_code/actions/workflows/msbuild.yml/badge.svg)](https://github.com/nazonokouta0706/great_code/actions/workflows/msbuild.yml)
 
-（このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
 
 # 〆切
