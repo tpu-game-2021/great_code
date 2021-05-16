@@ -30,8 +30,8 @@ int main()
         {
             printf("%s, ",mojiretsu);
         }
-        
-        system("PAUSE");
-    }
 
+        system("PAUSE");
+
+    }
 }
