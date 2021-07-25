@@ -11,16 +11,16 @@ int main()
      
     while (mojisuu++ < 1000)
     {
-        
-        if(mojisuu % 15 == 0)
+        //見づらいため、if文を使用。
+        if (mojisuu % 15 == 0)
         {
           printf("FizzBuzz");
         }
-        else if(mojisuu % 5 == 0)
+        else if (mojisuu % 5 == 0)
         {
           printf("Buzz");
         }
-        else if(mojisuu % 3 == 0)
+        else if (mojisuu % 3 == 0)
         {
           printf("Fizz");
         }
