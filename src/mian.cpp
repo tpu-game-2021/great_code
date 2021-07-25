@@ -14,19 +14,19 @@ int main()
         //見づらいため、if文を使用。
         if (mojisuu % 15 == 0)
         {
-          printf("FizzBuzz");
+          printf("FizzBuzz, ");
         }
         else if (mojisuu % 5 == 0)
         {
-          printf("Buzz");
+          printf("Buzz, ");
         }
         else if (mojisuu % 3 == 0)
         {
-          printf("Fizz");
+          printf("Fizz, ");
         }
         else
         {
-          printf("%d", mojisuu);
+          printf("%d, ", mojisuu);
         }
     }
     system("PAUSE"); 
